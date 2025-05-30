@@ -124,6 +124,7 @@ a:focus {
   font-size: 24px;
   font-weight: 700;
   color: #272727;
+  padding:10px;
   text-transform: uppercase;
 }
 
